@@ -1,0 +1,3 @@
+B001.sort.bam
+B002.sort.bam
+B003.sort.bam
